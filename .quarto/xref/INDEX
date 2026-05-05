@@ -10,5 +10,29 @@
   },
   "posts/welcome/index.qmd": {
     "index.html": "50cacec4"
+  },
+  "quarto-actions/examples/example-01-basics.md": {
+    "example-01-basics.html": "e66a9734"
+  },
+  "quarto-actions/examples/example-02-freeze.md": {
+    "example-02-freeze.html": "e0b088ac"
+  },
+  "quarto-actions/examples/example-03-dependencies.md": {
+    "example-03-dependencies.html": "9dca9533"
+  },
+  "quarto-actions/examples/example-04-render-no-publish.md": {
+    "example-04-render-no-publish.html": "7647ab91"
+  },
+  "quarto-actions/examples/example-05-non-top-level.md": {
+    "example-05-non-top-level.html": "467b851b"
+  },
+  "quarto-actions/examples/example-06-no-render.md": {
+    "example-06-no-render.html": "de09dc9f"
+  },
+  "quarto-actions/examples/example-07-publish-single-format.md": {
+    "example-07-publish-single-format.html": "5482d1e7"
+  },
+  "quarto-actions/examples/example-08-publish-to-others-services.md": {
+    "example-08-publish-to-others-services.html": "3f5eaa50"
   }
 }
