@@ -10,32 +10,10 @@
 <atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Tue, 05 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 02 May 2026 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is a post with executable code.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
-  <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <title>Blog First Post</title>
+  <dc:creator>Emmett C. Wolf</dc:creator>
   <link>https://your-website-url.example.com/posts/welcome/</link>
   <description><![CDATA[ 
 
@@ -43,14 +21,24 @@
 
 
 
-<p>This is the first post in a Quarto blog. Welcome!</p>
+<p>This is my first post, acting as a placeholder and guide for future posts.</p>
 <p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+<section id="header-1-hash" class="level1">
+<h1>Header 1 hash</h1>
+<section id="header-2-hash" class="level2">
+<h2 class="anchored" data-anchor-id="header-2-hash">Header 2 hash</h2>
+<section id="header-3-hash" class="level3">
+<h3 class="anchored" data-anchor-id="header-3-hash">Header 3 hash</h3>
+<section id="header-4-hash" class="level4">
+<h4 class="anchored" data-anchor-id="header-4-hash">Header 4 hash</h4>
 
 
+</section>
+</section>
+</section>
+</section>
 
  ]]></description>
-  <category>news</category>
   <guid>https://your-website-url.example.com/posts/welcome/</guid>
   <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
 </item>
