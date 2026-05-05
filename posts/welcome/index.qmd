@@ -1,12 +1,15 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "Blog First Post"
+author: "Emmett C. Wolf"
 date: "2026-05-02"
-categories: [news]
+categories: []
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is my first post, acting as a placeholder and guide for future posts.
 
 ![](thumbnail.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+# Header 1 hash
+## Header 2 hash
+### Header 3 hash
+#### Header 4 hash
