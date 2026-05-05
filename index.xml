@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Emmett Wolf - Cyber Projects</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<link>emmettwolf.org/</link>
+<atom:link href="emmettwolf.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Sat, 02 May 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Blog First Post</title>
   <dc:creator>Emmett C. Wolf</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <link>emmettwolf.org/posts/welcome/</link>
   <description><![CDATA[ 
 
 
@@ -22,7 +22,7 @@
 
 
 <p>This is my first post, acting as a placeholder and guide for future posts.</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p><img src="emmettwolf.org/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
 <section id="header-1-hash" class="level1">
 <h1>Header 1 hash</h1>
 <section id="header-2-hash" class="level2">
@@ -39,7 +39,7 @@
 </section>
 
  ]]></description>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
+  <guid>emmettwolf.org/posts/welcome/</guid>
   <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
