@@ -34,5 +34,8 @@
   },
   "quarto-actions/examples/example-08-publish-to-others-services.md": {
     "example-08-publish-to-others-services.html": "3f5eaa50"
+  },
+  "posts/Quarto Website Hosted Through GitHub/index.qmd": {
+    "index.html": "3795fd1a"
   }
 }

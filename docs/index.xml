@@ -6,52 +6,90 @@
       version="2.0">
 <channel>
 <title>Emmett Wolf - Cyber Projects</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<link>emmettwolf.org/</link>
+<atom:link href="emmettwolf.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Tue, 05 May 2026 04:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <title>Quarto Website Hosted Through GitHub</title>
+  <dc:creator>Emmett C. Wolf</dc:creator>
+  <link>emmettwolf.org/posts/Quarto Website Hosted Through GitHub/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>This is a post with executable code.</p>
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>It seems fitting to start this portfolio with the construction of the portfolio itself. My coding experience is almost entirely in Python, so there is nothing more terrifying than GitHub (or the terminal). It seems like the barrier to entry of these two essential skills is steep, but I knew I would need to learn it <em>at some point.</em> So, I have been trying to expose myself to it with some smaller projects over the past few weeks.</p>
+<p>The Quarto module made this project so much easier. Without it, it would have taken me much more time and exhausting effort to figure it out. However, there were still plenty of hurdles that I had to figure out just to get the website functioning.</p>
+<section id="first-the-easy-stuff" class="level3">
+<h3 class="anchored" data-anchor-id="first-the-easy-stuff">First, the easy stuff</h3>
+<p>No one is going to make it hard for you to give them money. So, getting the Cloudflare domain was simple. 5 minutes and a small hit on the bank account got me the domain for the next year. Easy stuff.</p>
+<p><img src="emmettwolf.org/posts/Quarto Website Hosted Through GitHub/1.png" class="img-fluid"></p>
+</section>
+<section id="quarto-initiation" class="level3">
+<h3 class="anchored" data-anchor-id="quarto-initiation">Quarto Initiation</h3>
+<p>Now, the slightly scary stuff. I always fear opening the terminal, but it has been getting easier. Working with a module like Quarto definitely helped me overcome my fears. A few menus and quick responses made the process super easy. Within minutes, I had a local directory opened with all the required files to get it running. A quick “quarto preview” gave me a small boost to push through the rest. I think it knew I’d need it…</p>
+<p><img src="emmettwolf.org/posts/Quarto Website Hosted Through GitHub/2.png" class="img-fluid"></p>
+<p><img src="emmettwolf.org/posts/Quarto Website Hosted Through GitHub/3.png" class="img-fluid"></p>
+</section>
+<section id="github-chaos" class="level3">
+<h3 class="anchored" data-anchor-id="github-chaos">GitHub Chaos</h3>
+<p>Going through the whole git init, git add ., git commit, git push flow was not something new for me. I’d forced myself to do it multiple times with a few VSCode files just to get in the hang of it. What I did <em>not</em> anticipate was the mess I was already building for myself. I had planned to use the quarto_actions addition to automate updates to the blog. However, I am still in the novice level when it comes to understanding GitHub’s branches. I put them all into main and went about the rest of the project.</p>
+<p><img src="emmettwolf.org/posts/Quarto Website Hosted Through GitHub/4.png" class="img-fluid"></p>
+<p>After shedding a single tear at the sight of my mistake, I spent the next hour troubleshooting how to get this folder out of main and into the gh-pages branch (which I also admittedly had to create).</p>
+<p>I still don’t quite understand how this works, but I figure with more time under the hood of GitHub, I’ll get the basic idea. Still, this took a lot of troubleshooting and random terminal command guesses to get functioning.</p>
+<p>As a cherry on top, I went through a dark learning phase of connecting GitHub to my Cloudflare DNS. After plenty of trial and error (and the realization that the proxy status had to be set to DNS only), I was able to get past the DNS error in the GitHub settings.</p>
+<p><img src="emmettwolf.org/posts/Quarto Website Hosted Through GitHub/5.png" class="img-fluid"></p>
+</section>
+<section id="final-notes" class="level3">
+<h3 class="anchored" data-anchor-id="final-notes">Final Notes</h3>
+<p>So, it seemed like my website was somewhat up and running. I spent a bit more time making a few cosmetic changes and tinkering with the file structure, but I think it’s a decent start. I am starting to face my GitHub and terminal fears, with many lessons in each encounter. I’d place my odds at 50/50 between having terminal commands function or producing massive errors which lead me down to rabit holes requiring my attention for hours. Still, the process was relatively simple and I feel much more confident in my terminal abilities.</p>
+<p>If I can take anything away from this, at least I know how to open the cwd from terminal now (explorer .)</p>
 
 
+</section>
+</section>
 
  ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
+  <category>Website Builds</category>
+  <category>GitHub</category>
+  <guid>emmettwolf.org/posts/Quarto Website Hosted Through GitHub/</guid>
   <pubDate>Tue, 05 May 2026 04:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="emmettwolf.org/posts/Quarto Website Hosted Through GitHub/2.png" medium="image" type="image/png" height="70" width="144"/>
 </item>
 <item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <title>Blog First Post</title>
+  <dc:creator>Emmett C. Wolf</dc:creator>
+  <link>emmettwolf.org/posts/welcome/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+<p>This is my first post, acting as a placeholder and guide for future posts.</p>
+<p><img src="emmettwolf.org/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<section id="header-1-hash" class="level1">
+<h1>Header 1 hash</h1>
+<section id="header-2-hash" class="level2">
+<h2 class="anchored" data-anchor-id="header-2-hash">Header 2 hash</h2>
+<section id="header-3-hash" class="level3">
+<h3 class="anchored" data-anchor-id="header-3-hash">Header 3 hash</h3>
+<section id="header-4-hash" class="level4">
+<h4 class="anchored" data-anchor-id="header-4-hash">Header 4 hash</h4>
 
 
+</section>
+</section>
+</section>
+</section>
 
  ]]></description>
-  <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
+  <guid>emmettwolf.org/posts/welcome/</guid>
   <pubDate>Sat, 02 May 2026 04:00:00 GMT</pubDate>
 </item>
 </channel>

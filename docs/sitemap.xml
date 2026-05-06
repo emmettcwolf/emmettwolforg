@@ -16,4 +16,16 @@
     <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
     <lastmod>2026-05-05T19:08:53.546Z</lastmod>
   </url>
+  <url>
+    <loc>emmettwolf.org/posts/welcome/index.html</loc>
+    <lastmod>2026-05-05T21:49:16.349Z</lastmod>
+  </url>
+  <url>
+    <loc>emmettwolf.org/index.html</loc>
+    <lastmod>2026-05-05T23:46:24.052Z</lastmod>
+  </url>
+  <url>
+    <loc>emmettwolf.org/posts/Quarto Website Hosted Through GitHub/index.html</loc>
+    <lastmod>2026-05-06T02:42:54.279Z</lastmod>
+  </url>
 </urlset>
