@@ -61,36 +61,5 @@
   <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
   <media:content url="emmettwolf.org/posts/Quarto Website Hosted Through GitHub/2.png" medium="image" type="image/png" height="70" width="144"/>
 </item>
-<item>
-  <title>Blog First Post</title>
-  <dc:creator>Emmett C. Wolf</dc:creator>
-  <link>emmettwolf.org/posts/welcome/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is my first post, acting as a placeholder and guide for future posts.</p>
-<p><img src="emmettwolf.org/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<section id="header-1-hash" class="level1">
-<h1>Header 1 hash</h1>
-<section id="header-2-hash" class="level2">
-<h2 class="anchored" data-anchor-id="header-2-hash">Header 2 hash</h2>
-<section id="header-3-hash" class="level3">
-<h3 class="anchored" data-anchor-id="header-3-hash">Header 3 hash</h3>
-<section id="header-4-hash" class="level4">
-<h4 class="anchored" data-anchor-id="header-4-hash">Header 4 hash</h4>
-
-
-</section>
-</section>
-</section>
-</section>
-
- ]]></description>
-  <guid>emmettwolf.org/posts/welcome/</guid>
-  <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
-</item>
 </channel>
 </rss>
